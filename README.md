@@ -1,2 +1,4 @@
 # WEB2_Bootstrap
-Manipuler et utiliser bootstrap
+
+## Objectifs
+Manipuler et utiliser bootstrap en réalisant une mise en a page simple.
